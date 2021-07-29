@@ -1,18 +1,29 @@
+/* Font */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap');
 
+/* Common Style */
 body{
     font-family: 'Poppins', sans-serif;
 }
+
+/* Custom Style */
 
 .bg-honda-cbr{
     background-color: #264653;
 }
 
-.color-honda-cbr{
+.honda-btn-bg{
     background-color: #E76F51;
-    color: aliceblue;
+}
+
+.honda-text{
+    color: #E76F51;
 }
 
 .img-gray{
     filter: grayscale(100%);
+}
+
+.honda-user{
+    color: #23A6F0;
 }
